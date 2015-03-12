@@ -5,5 +5,10 @@ structure
 ---------
 /side/faction/deck.txt
 
+list of decks
+-------------
+ - 
+ - 
+ - 
 
-Might include octgn deck files too
+might include octgn deck files too at some point
