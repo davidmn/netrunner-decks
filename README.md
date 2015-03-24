@@ -35,46 +35,46 @@ list of played identities
 -------------------------
 
 I am also attempting to play every identity in the game, here is my progress
- - [] Whizzard
- - [] Cerebral Imaging
- - [x] Noise
- - [] Harmony Medtech 
- - [x] Gagarin Deep Space
- - [] Custom Biotics
- - [] Nisei Division 
- - [x] NEXT Design
- - [x] Tennin Institute
- - [x] Near-Earth Hub
- - [] Haas-Bioroid "Stronger Together"
- - [] Jinteki Biotech
-	[] The Brewery
-	[] The Tank
-	[] The Green House
-[x] Blue Sun
-[x] Gabriel Santiago
-[] Nasir Meidan
-[] Hayley Kaplan
-[] Edward Kim
-[x] Rielle "Kit" Peddler
-[] Iain Stirling
-[] Ken "Express" Tenma
-[] MaxX
-[] The Professor
-[] Valencia Estevez
-[] Exile
-[] Silhouette
-[] Jinteki "Replicating Perfection"
-[x] Kate "Mac" McCaffrey
-[] Chaos Theory
-[x] Reina Roja
-[] Jinteki "Personal Evolution"
-[] Haas-Bioroid "Engineering The Future"
-[] Chronos Protocol
-[] Weyland Consortium "Because We Built It"
-[] NBN "Making News"
-[] Andromeda
-[] Weyland Consortium "Building a Better World"
-[] Leela Patel
-[] GRNDL
-[] Industrial Genomics
-[] NBN "The World is Yours"
+ -  - [ ] Whizzard
+ -  - [ ] Cerebral Imaging
+ -  - [x] Noise
+ -  - [ ] Harmony Medtech 
+ -  - [x] Gagarin Deep Space
+ -  - [ ] Custom Biotics
+ -  - [ ] Nisei Division 
+ -  - [x] NEXT Design
+ -  - [x] Tennin Institute
+ -  - [x] Near-Earth Hub
+ -  - [ ] Haas-Bioroid "Stronger Together"
+ -  - [ ] Jinteki Biotech
+	 - [ ] The Brewery
+	 - [ ] The Tank
+	 - [ ] The Green House
+ -  - [x] Blue Sun
+ -  - [x] Gabriel Santiago
+ -  - [ ] Nasir Meidan
+ -  - [ ] Hayley Kaplan
+ -  - [ ] Edward Kim
+ -  - [x] Rielle "Kit" Peddler
+ -  - [ ] Iain Stirling
+ -  - [ ] Ken "Express" Tenma
+ -  - [ ] MaxX
+ -  - [ ] The Professor
+ - [ ] Valencia Estevez
+ - [ ] Exile
+ - [ ] Silhouette
+ - [ ] Jinteki "Replicating Perfection"
+ - [x] Kate "Mac" McCaffrey
+ - [ ] Chaos Theory
+ - [x] Reina Roja
+ - [ ] Jinteki "Personal Evolution"
+ - [ ] Haas-Bioroid "Engineering The Future"
+ - [ ] Chronos Protocol
+ - [ ] Weyland Consortium "Because We Built It"
+ - [ ] NBN "Making News"
+ - [ ] Andromeda
+ - [ ] Weyland Consortium "Building a Better World"
+ - [ ] Leela Patel
+ - [ ] GRNDL
+ - [ ] Industrial Genomics
+ - [ ] NBN "The World is Yours"
