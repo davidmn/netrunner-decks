@@ -35,18 +35,18 @@ list of played identities
 -------------------------
 
 I am also attempting to play every identity in the game, here is my progress
-[] Whizzard
-[] Cerebral Imaging
-[x] Noise
-[] Harmony Medtech 
-[x] Gagarin Deep Space
-[] Custom Biotics
-[] Nisei Division 
-[x] NEXT Design
-[x] Tennin Institute
-[x] Near-Earth Hub
-[] Haas-Bioroid "Stronger Together"
-[] Jinteki Biotech
+ - [] Whizzard
+ - [] Cerebral Imaging
+ - [x] Noise
+ - [] Harmony Medtech 
+ - [x] Gagarin Deep Space
+ - [] Custom Biotics
+ - [] Nisei Division 
+ - [x] NEXT Design
+ - [x] Tennin Institute
+ - [x] Near-Earth Hub
+ - [] Haas-Bioroid "Stronger Together"
+ - [] Jinteki Biotech
 	[] The Brewery
 	[] The Tank
 	[] The Green House
