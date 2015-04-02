@@ -31,7 +31,7 @@ list of decks
 
 might include octgn deck files too at some point
 
-list of played identities
+List of Played Identities
 -------------------------
 
 I am also attempting to play every identity in the game, here is my progress
