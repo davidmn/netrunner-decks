@@ -78,3 +78,4 @@ I am also attempting to play every identity in the game, here is my progress
  - [ ] GRNDL
  - [ ] Industrial Genomics
  - [ ] NBN "The World is Yours"
+ - [ ] Quetzal
