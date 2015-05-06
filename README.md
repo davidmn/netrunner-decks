@@ -45,7 +45,7 @@ I am also attempting to play every identity in the game, here is my progress
  -  - [x] NEXT Design
  -  - [x] Tennin Institute
  -  - [x] Near-Earth Hub
- -  - [ ] Haas-Bioroid "Stronger Together"
+ -  - [x] Haas-Bioroid "Stronger Together"
  -  - [ ] Jinteki Biotech
 	 - [ ] The Brewery
 	 - [ ] The Tank
@@ -68,13 +68,13 @@ I am also attempting to play every identity in the game, here is my progress
  - [ ] Chaos Theory
  - [x] Reina Roja
  - [ ] Jinteki "Personal Evolution"
- - [ ] Haas-Bioroid "Engineering The Future"
+ - [x] Haas-Bioroid "Engineering The Future"
  - [ ] Chronos Protocol
  - [ ] Weyland Consortium "Because We Built It"
  - [ ] NBN "Making News"
  - [ ] Andromeda
  - [ ] Weyland Consortium "Building a Better World"
- - [ ] Leela Patel
+ - [x] Leela Patel
  - [ ] GRNDL
  - [ ] Industrial Genomics
  - [ ] NBN "The World is Yours"
