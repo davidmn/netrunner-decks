@@ -72,7 +72,7 @@ I am also attempting to play every identity in the game, here is my progress
  - [ ] Chronos Protocol
  - [ ] Weyland Consortium "Because We Built It"
  - [ ] NBN "Making News"
- - [ ] Andromeda
+ - [x] Andromeda
  - [ ] Weyland Consortium "Building a Better World"
  - [x] Leela Patel
  - [ ] GRNDL
