@@ -50,50 +50,74 @@ List of Played Identities
 =========================
 
 I am also attempting to play every identity in the game, here is my progress
- -  - [ ] Whizzard
- -  - [ ] Cerebral Imaging
- -  - [x] Noise
- -  - [ ] Harmony Medtech 
- -  - [x] Gagarin Deep Space
- -  - [ ] Custom Biotics
- -  - [ ] Nisei Division 
- -  - [x] NEXT Design
- -  - [x] Tennin Institute
- -  - [x] Near-Earth Hub
- -  - [x] Haas-Bioroid "Stronger Together"
- -  - [x] Jinteki Biotech
-	 - [x] The Brewery
-	 - [x] The Tank
-	 - [x] The Green House
- -  - [x] Blue Sun
- -  - [x] Gabriel Santiago
- -  - [ ] Nasir Meidan
- -  - [ ] Hayley Kaplan
- -  - [ ] Edward Kim
- -  - [x] Rielle "Kit" Peddler
- -  - [ ] Iain Stirling
- -  - [ ] Ken "Express" Tenma
- -  - [ ] MaxX
- -  - [ ] The Professor
+
+HB
+--
+ - [ ] Custom Biotics
+ - [ ] Cerebral Imaging
+ - [x] Next Design
+ - [x] HB: Stronger Together
+ - [x] HB: Engineering the Future
+
+Jinteki
+-------
+ - [ ] Harmony Medtech
+ - [ ] Nisei Division
+ - [x] Tennin Institute
+ - [x] Jinteki: Personal Evolution
+ - [ ] Jinteki: Replecating Perfection
+ - [ ] Industrial Genomics
+ - [ ] Jinteki Biotech
+ 	 - [x] The Brewery
+ 	 - [x] The Tank
+ 	 - [x] The Greenhouse
+
+
+Weyland
+-------
+ - [x] Gagarin Deep Space
+ - [x] Blue Sun
+ - [ ] GRNDL
+ - [x] Argus Security
+ - [x] Titan Transnational
+ - [x] Weyland Consortium: Because We Built It
+ - [x] Weyland Consortium: Building A Better World
+
+NBN
+---
+ - [ ] NBN: The World is Yours
+ - [x] Near Earth Hub
+ - [ ] NBN: Making News
+
+Anarch
+------
+ - [ ] Whizzard
+ - [x] Noise
+ - [ ] Edward Kim
+ - [ ] MaxX
  - [ ] Valencia Estevez
- - [ ] Exile
+ - [x] Reina Roja
+ - [x] Quetzal
+
+Criminal
+--------
+ - [x] Gabriel Santiago
+ - [x] Leela Patel
+ - [x] Andromeda
+ - [ ] Iain Sterling
+ - [ ] Armand "Geist" Walker
+ - [ ] Ken "Express" Tenma
  - [ ] Silhouette
- - [ ] Jinteki "Replicating Perfection"
+
+Shaper
+------
+ - [ ] Nasir Meidan
+ - [ ] Hayley Kaplan
+ - [x] Rielle "Kit"  Peddler
+ - [ ] The Professor
  - [x] Kate "Mac" McCaffrey
  - [ ] Chaos Theory
- - [x] Reina Roja
- - [x] Jinteki "Personal Evolution"
- - [x] Haas-Bioroid "Engineering The Future"
- - [ ] Chronos Protocol
- - [x] Weyland Consortium "Because We Built It"
- - [ ] NBN "Making News"
- - [x] Andromeda
- - [x] Weyland Consortium "Building a Better World"
- - [x] Leela Patel
- - [ ] GRNDL
- - [ ] Industrial Genomics
- - [ ] NBN "The World is Yours"
- - [x] Quetzal
- - [x] Argus Security
- - [ ] Armand "Geist" Walker
- - [x] Titan Transnational
+ - [ ] Exile
+
+
+
