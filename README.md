@@ -67,7 +67,7 @@ Jinteki
  - [x] Jinteki: Personal Evolution
  - [ ] Jinteki: Replecating Perfection
  - [ ] Industrial Genomics
- - [ ] Jinteki Biotech
+ - [x] Jinteki Biotech
  	 - [x] The Brewery
  	 - [x] The Tank
  	 - [x] The Greenhouse
@@ -77,7 +77,7 @@ Weyland
 -------
  - [x] Gagarin Deep Space
  - [x] Blue Sun
- - [ ] GRNDL
+ - [x] GRNDL
  - [x] Argus Security
  - [x] Titan Transnational
  - [x] Weyland Consortium: Because We Built It
@@ -117,7 +117,7 @@ Shaper
  - [ ] The Professor
  - [x] Kate "Mac" McCaffrey
  - [ ] Chaos Theory
- - [ ] Exile
+ - [x] Exile
 
 
 
